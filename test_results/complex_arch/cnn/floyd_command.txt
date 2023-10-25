@@ -1,1 +1,3 @@
-floyd run --gpu2 --data ebubekir/datasets/phishing_detection/1:dataset --message "cnn complex model bs: 7000" "python dl_floyd.py -arch cnn -ep 20 -bs 7000"
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bdca14b4545124f8d1b479d04e98474d42dde2e9c203227b70e03c347d22f0c
+size 156
