@@ -264,18 +264,7 @@ Comparative test results on small_dataset with complex architecture are given be
 ## Credit
 
 
-_Ebubekir BUBER_, _Ozgur Koray Sahingoz_, _Emin Kugu_ <br>
+_Ebubekir BUBER_, _Ozgur Koray SAHINGOZ_, _Emin KUGU_ <br>
 
 
 [[Paper]](link) [[Blog Post]](link)
-
-
-```
-@article{DEPHIDES,
-  title={DEPHIDES: Deep Learning Based Phishing URL Detection System},
-  author={Ebubekir BUBER},
-  journal = {arXiv},
-  year={2019},
-  mail={ebubekirbbr@gmail.com}
-}
-```
