@@ -6,8 +6,8 @@ This project has been developed to detect Phishing URLs using Deep Learning. A c
 This data set has been shared so that one can use them in their own studies. The data set consists of two classes: Phishing URLs and Legitimate URLs.
 
 ### Installation / Clone and install requirements
-    $ git clone https://github.com/ebubekirbbr/phishing_url_detection.git
-    $ cd phishing_url_detection/
+    $ git clone https://github.com/ebubekirbbr/dephides
+    $ cd dephides/
     $ sudo pip install -r requirements.txt
 
 
@@ -264,7 +264,7 @@ Comparative test results on small_dataset with complex architecture are given be
 ## Credit
 
 
-_Ebubekir BUBER_ <br>
+_Ebubekir BUBER_, _Ozgur Koray Sahingoz_, _Emin Kugu_ <br>
 
 
 [[Paper]](link) [[Blog Post]](link)
