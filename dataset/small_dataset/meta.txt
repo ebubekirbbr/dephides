@@ -1,0 +1,13 @@
+# author Ebubekir Büber
+# mail: ebubekirbbr@gmail.com
+# githab link: github.com
+# Phishing URL Detection with Deep Learning
+# small_dataset meta information
+
+File            Phishing URL    Legitimate URL       Overall
+
+train.txt            162,463           201,736       364,199
+test.txt              22,978            28,532        51,510
+val.txt               46,649            57,927       104,576
+
+Overall              232,090           288,195       520,285
