@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DEPHIDES: Deep Learning Based Phishing URL Detection System
 
 [[Paper]](link) [[Blog Post]](link)
@@ -272,4 +271,3 @@ _Ebubekir BUBER_, _Ozgur Koray SAHINGOZ_, _Emin KUGU_ <br>
 =======
 # dephides
 DEPHIDES: Deep Learning Based Phishing URL Detection System
->>>>>>> e1c823d (Initial commit)
