@@ -1,7 +1,3 @@
-mlflow==0.7.0
-keras_self_attention==0.41.0
-matplotlib==3.0.0
-seaborn==0.9.0
-Keras==2.2.4
-numpy==1.16.3
-scikit_learn==0.21.1
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed948ce4447f21cb44407f4664c14cd24ed8556b10f11baf1991f922b9c93919
+size 124

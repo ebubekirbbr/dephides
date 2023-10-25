@@ -1,8 +1,3 @@
-              precision    recall  f1-score   support
-
-    phishing       0.86      0.91      0.89     28532
-  legitimate       0.88      0.82      0.85     22978
-
-   micro avg       0.87      0.87      0.87     51510
-   macro avg       0.87      0.86      0.87     51510
-weighted avg       0.87      0.87      0.87     51510
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a8a577f32c3ceceaf718ea7177eb66598950e85f6f2b05331131ea2861aec28
+size 326
