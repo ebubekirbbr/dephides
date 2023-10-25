@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+    phishing       0.86      0.91      0.89     28532
+  legitimate       0.88      0.82      0.85     22978
+
+   micro avg       0.87      0.87      0.87     51510
+   macro avg       0.87      0.86      0.87     51510
+weighted avg       0.87      0.87      0.87     51510

@@ -1,0 +1,1 @@
+floyd run --gpu2 --data ebubekir/datasets/phishing_detection/1:dataset --message "cnn2 complex model ep:100" "python dl_floyd.py -arch cnn2 -ep 100 -bs 7000"
