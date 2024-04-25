@@ -13,6 +13,8 @@ This data set has been shared so that one can use them in their own studies. The
 
 #### Dataset
 
+If you have problems accessing the data set Request an access Google Drive link (https://drive.google.com/drive/folders/13zj-HYEmYAyScb1nd4Lf329VJIHIUvhv?usp=drive_link)
+
 The data set has been prepared as 2 different versions. The data set was shared in two versions due to the fact that the researchers could easily reproduce the tests and hardware limitations.
 The first version (small_dataset) was prepared using a 10% sub-sample of all dataset. The other version (big_dataset) contains the entire data.
 In this study, the scenarios tested were run on the small_dataset.
