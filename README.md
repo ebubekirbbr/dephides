@@ -1,6 +1,6 @@
 # DEPHIDES: Deep Learning Based Phishing URL Detection System
 
-[[Paper]](link) [[Blog Post]](link)
+[[Paper]](https://ieeexplore.ieee.org/document/10388305)
 
 This project has been developed to detect Phishing URLs using Deep Learning. A comprehensive dataset has been collected for this purpose.
 This data set has been shared so that one can use them in their own studies. The data set consists of two classes: Phishing URLs and Legitimate URLs.
@@ -269,4 +269,4 @@ Comparative test results on small_dataset with complex architecture are given be
 _Ebubekir BUBER_, _Ozgur Koray SAHINGOZ_, _Emin KUGU_ <br>
 
 
-[[Paper]](link) [[Blog Post]](link)
+[[Paper]](https://ieeexplore.ieee.org/document/10388305)
