@@ -1,3 +1,9 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:5baef62393ba528e885fc0bb027ee99aaf933d8b1d0fefbb321faa5595f1cdd8
-size 326
+              precision    recall  f1-score   support
+
+    phishing       0.98      0.98      0.98     28532
+  legitimate       0.97      0.98      0.98     22978
+
+   micro avg       0.98      0.98      0.98     51510
+   macro avg       0.98      0.98      0.98     51510
+weighted avg       0.98      0.98      0.98     51510
+

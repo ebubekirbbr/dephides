@@ -1,3 +1,13 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:82e00332981101a31715f413f201cf3d2360ccab3c7d335c09f6588eef86675c
-size 465
+# author Ebubekir Büber
+# mail: ebubekirbbr@gmail.com
+# githab link: github.com
+# Phishing URL Detection with Deep Learning
+# small_dataset meta information
+
+File            Phishing URL    Legitimate URL       Overall
+
+train.txt            162,463           201,736       364,199
+test.txt              22,978            28,532        51,510
+val.txt               46,649            57,927       104,576
+
+Overall              232,090           288,195       520,285

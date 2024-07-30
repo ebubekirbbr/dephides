@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e1938baecca74adb6dd9dfe6545edfe9013c773f3439c805f28e045989c00314
-size 158
+floyd run --gpu2 --env default --data ebubekir/datasets/phishing_detection/1:dataset --message 'att base model' 'python dl_floyd.py -arch att -ep 20 -bs 5000'

@@ -1,3 +1,2 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:04c1b17e3ee33fa868c18fe570298c6eb0b3c0ce4724531939afbc24a396016d
-size 156
+floyd run --gpu2 --data ebubekir/datasets/phishing_detection/1:dataset --message "cnn complex model ep:100" "python dl_floyd.py -arch cnn -ep 100 -bs 7000"
+

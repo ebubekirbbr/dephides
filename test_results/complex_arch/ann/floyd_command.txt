@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:e3039e6cd4686b59c965b50c9dd92d5206021a25bde675939e173c670220ac17
-size 170
+floyd run --gpu2 --env default --data ebubekir/datasets/phishing_detection/1:dataset --message 'ann complex model bs: 7000' 'python dl_floyd.py -arch ann -ep 20 -bs 7000'

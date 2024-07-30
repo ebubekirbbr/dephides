@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:d2c1acdc297e9b8a4bf899ae18ada0b9f0d195a8d1728a52e2b10b685eab2954
-size 158
+floyd run --gpu2 --env default --data ebubekir/datasets/phishing_detection/1:dataset --message 'rnn base model' 'python dl_floyd.py -arch rnn -ep 20 -bs 7000'
